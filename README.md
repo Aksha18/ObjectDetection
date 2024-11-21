@@ -1,4 +1,4 @@
-#Faster R-CNN Object Detection Model
+Faster R-CNN Object Detection Model
 Project Overview
 This project focuses on the development and training of a Faster R-CNN model for object detection. The model is designed for detecting objects in images and can be used for various applications such as image classification, object localization, and more. The model is built using TensorFlow and has been trained on a custom dataset, targeting the detection of three object classes.
 
